@@ -20,7 +20,7 @@ h2 {
   text-align: center;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.17px;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -31,7 +31,7 @@ h2 {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.17px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -84,11 +84,11 @@ main {
   font-size: 56px;
   font-weight: 700;
   line-height: 60px;
-  letter-spacing: 1.12px;
+  letter-spacing: 1.07px;
 }
 
 .button {
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   color: #fff;
   font-size: 16px;
   font-weight: 500;
@@ -98,8 +98,12 @@ main {
 }
 
 .button:hover {
-  background: #404bbf;
+  background-color: #404BBF;
 }
+
+.button:focus {
+    background-color: #404BBF;
+  }
 
 .company-features {
   background-color: #fff;
@@ -121,7 +125,7 @@ main {
 }
 
 .our-team {
-  background-color: #f4f4fd;
+  background-color: #FFFFFF;
 }
 .our-team-workers {
   background-color: #ffffff;
@@ -202,7 +206,7 @@ main {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17;
+  line-height: 1.17px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
