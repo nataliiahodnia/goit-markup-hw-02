@@ -127,7 +127,8 @@ main {
 .our-team {
   background-color: #F4F4FD;
 }
-.our-team-workers {
+
+.our-team .list{
   background-color: #FFFFFF;
 }
 .our-team .main-title {
