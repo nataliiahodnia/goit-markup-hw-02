@@ -9,7 +9,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -31,7 +31,7 @@ h2 {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
@@ -125,10 +125,10 @@ main {
 }
 
 .our-team {
-  background-color: #FFFFFF;
+  background-color: #F4F4FD;
 }
 .our-team-workers {
-  background-color: #ffffff;
+  background-color: #FFFFFF;
 }
 .our-team .main-title {
   color: #2e2f42;
@@ -206,7 +206,7 @@ main {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
